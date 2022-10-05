@@ -5,7 +5,7 @@ on:
     paths:
       - moby-compose/**
     branches: [main]
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   anda:

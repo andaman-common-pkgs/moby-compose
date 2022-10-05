@@ -5,7 +5,7 @@ on:
     paths:
       - moby-buildx/**
     branches: [main]
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   anda:
