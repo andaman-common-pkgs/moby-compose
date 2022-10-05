@@ -3,7 +3,7 @@
 Name:           moby-compose
 Version:        2.11.2
 Release:        1%{?dist}
-Summary:        Define and run multi-container applications with Docker 
+Summary:        Define and run multi-container applications with Docker
 
 License:        Apache-2.0
 URL:            https://github.com/docker/compose/
